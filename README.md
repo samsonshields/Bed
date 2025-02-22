@@ -1,0 +1,9 @@
+(https://polyhaven.com/a/wood_floor
+https://assetstore.unity.com/packages/3d/props/furniture/bedroom-set-interior-264498
+https://polyhaven.com/a/beige_wall_001
+https://assetstore.unity.com/packages/3d/environments/interior-house-assets-urp-257122
+https://polyhaven.com/a/fancy_picture_frame_01
+https://polyhaven.com/a/book_encyclopedia_set_01
+https://polyhaven.com/a/baseball_01
+https://polyhaven.com/a/gaming_console
+https://polyhaven.com/a/Television_01)
